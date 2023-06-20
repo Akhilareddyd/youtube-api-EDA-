@@ -1,3 +1,3 @@
 # youtube-api-analysis
 
-Project code for my youtube video on Creating data analysis portfolio project with Youtube API https://youtu.be/D56_Cx36oGY.
+Project code for my final project on SCHMGMT 602. I analyzed popular videos on youtube 
